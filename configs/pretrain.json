@@ -1,14 +1,14 @@
 {
-    "combine_datasets": ["flickr", "mixed"],
-    "combine_datasets_val": ["gqa", "flickr", "refexp"],
+    "combine_datasets": ["flickr"],
+    "combine_datasets_val": ["flickr"],
     "coco_path": "",
     "vg_img_path": "",
-    "flickr_img_path": "",
-    "refexp_ann_path": "mdetr_annotations",
-    "flickr_ann_path": "mdetr_annotations",
-    "gqa_ann_path": "mdetr_annotations",
+    "flickr_img_path": "/media/ssd-3t/isviridov/mdetr_work/datasets/flickr_stuff/images/flickr30k-images/",
+    "refexp_ann_path": "",
+    "flickr_ann_path": "/media/ssd-3t/isviridov/mdetr_work/datasets/flickr_stuff/OpenSource/",
+    "gqa_ann_path": "",
     "refexp_dataset_name": "all",
     "GT_type": "separate",
-    "flickr_dataset_path": ""
+    "flickr_dataset_path": "/media/ssd-3t/isviridov/mdetr_work/datasets/flickr_stuff/texts/Annotations/"
 }
 
