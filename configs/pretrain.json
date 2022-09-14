@@ -9,6 +9,6 @@
     "gqa_ann_path": "",
     "refexp_dataset_name": "all",
     "GT_type": "separate",
-    "flickr_dataset_path": "/media/ssd-3t/isviridov/mdetr_work/datasets/flickr_stuff/texts/Annotations/"
+    "flickr_dataset_path": "/media/ssd-3t/isviridov/mdetr_work/datasets/flickr_stuff/texts/"
 }
 
